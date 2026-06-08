@@ -10,7 +10,7 @@ Write blog posts, social media, newsletters, scripts, and product copy. Generate
 openclaw skills install ai-content-creator
 ```
 
-Or browse on ClawHub: [clawhub.ai/plagtech/ai-content-creator](https://clawhub.ai/plagtech/ai-content-creator)
+Or browse on ClawHub: [clawhub.ai/plagtech/ai-content-creator-x402](https://clawhub.ai/plagtech/ai-content-creator-x402)
 
 ## What it does
 
